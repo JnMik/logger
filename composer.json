@@ -1,0 +1,13 @@
+{
+    "name": "support3w/logger",
+    "autoload": {
+        "psr-4": {
+            "Support3w\\Logger\\": "src"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "~4.6"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
